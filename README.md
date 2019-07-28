@@ -23,7 +23,7 @@ This repository contains one standard implementation of A12 effect size, for ins
 
 MINKU, L.; HOU, S.. "Clustering Dycom: An Online Cross-Company Software Effort Estimation Study", Proceedings of the 13th International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE), November 2017.
 
-It also contains two temporal versions of A12, where A12 is computed multiple times across time. The window-based version (a12temporal2.m) as used in the following paper:
+It also contains two temporal versions of A12, where A12 is computed multiple times across time. The window-based version (a12temporal2.m) was used in the following paper:
 
 MINKU, L.L.; YAO, X. . "Which Models of the Past Are Relevant to the Present? A software effort estimation approach to exploiting useful past models", Automated Software Engineering Journal, v. 24, n. 7, p. 499-542, September 2017, doi: 10.1007/s10515-016-0209-7. 
  
