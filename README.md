@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/199282152.svg)](https://zenodo.org/badge/latestdoi/199282152)
+
+
 # A12-Effect-Size
 
 Matlab code to compute A12 effect size proposed in the following paper:
